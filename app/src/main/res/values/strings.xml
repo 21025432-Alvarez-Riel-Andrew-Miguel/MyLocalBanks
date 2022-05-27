@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Local Banks</string>
+    <string name="title">My Banks</string>
+    <string name="dbs">DBS</string>
+    <string name="ocbc">OCBC</string>
+    <string name="uob">UOB</string>
+    <string name="eng">English</string>
+    <string name="chi">Chinese</string>
+    <string name="fav">Toggle Favourite</string>
+
+</resources>
